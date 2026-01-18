@@ -9,3 +9,6 @@ It will evolve over time to include:
 - Infrastructure as Code
 
 Created and maintained by Killian DeLuca.
+
+This project is being used to build a DevOps portfolio.
+
