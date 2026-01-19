@@ -12,3 +12,4 @@ Created and maintained by Killian DeLuca.
 
 This project is being used to build a DevOps portfolio.
 
+Edited directly on GitHub to simulate team change.
